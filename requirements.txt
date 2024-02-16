@@ -1,0 +1,7 @@
+Flask==3.0.2
+Pillow==9.0.1
+Pillow==10.2.0
+PyAutoGUI==0.9.54
+pyclip==0.7.0
+pystray==0.19.5
+python-dotenv==1.0.1
